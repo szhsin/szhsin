@@ -1,4 +1,4 @@
-[![@szhsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=szhsin&hide=prs,issues,contribs&show=prs_merged&show_icons=true&theme=transparent&include_all_commits=true&number_format=long)](https://github.com/szhsin)
+[![@szhsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=szhsin&hide=prs,issues,contribs&show=prs_merged&show_icons=true&theme=transparent&include_all_commits=false&number_format=long)](https://github.com/szhsin)
 
 ### The list of things I created and love:
 
